@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Die toets program</string>
+    <string name="welcome">Welkom</string>
+    <string name="username">gebruiker naam</string>
+    <string name="password">Wagwoord</string>
+    <string name="btntxtlogin">Login</string>
+    <string name="btncancel">kanseleer</string>
+    <string name="bio">ek how baie van android</string>
+    <string name="special_message">Ek is seker dat dit werk</string>
+
+    <string name="lang_prompt">verander taal</string>
+    <string name="eng">en</string>
+    <string name="af">af</string>
+
+    <string-array  name="lang_array">
+        <item>En</item>
+        <item>af</item>
+    </string-array>
+
+</resources>
